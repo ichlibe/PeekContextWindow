@@ -18,6 +18,12 @@ instead of using the inline peek window.
 3. Trigger the command `Ctrl+shift+d`
 
 ## Release Notes
+compile：
+npm.cmd run compile
+package：
+vsce.cmd package
+
+https://github.com/ichlibe/PeekContextWindow
 
 ### 0.0.1
 
