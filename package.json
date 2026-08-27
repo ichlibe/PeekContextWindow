@@ -3,13 +3,13 @@
   "displayName": "peek context window",
   "description": "Auto peek definition to split window when Click on symbol, like source insight context window",
   "version": "0.0.1",
-  "publisher": "myname",
+  "publisher": "Aarlan",
   "repository": {
     "type": "git",
-    "url": "https://github.com/你的用户名/你的仓库名.git"
+    "url": "https://github.com/ichlibe/PeekContextWindow"
   },
   "engines": {
-    "vscode": "^1.104.0"
+    "vscode": "^1.134.0"
   },
   "categories": [
     "Programming Languages"
