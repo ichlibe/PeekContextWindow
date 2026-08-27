@@ -1,7 +1,7 @@
 {
   "name": "peek-context-window",
-  "displayName": "peek context window",
-  "description": "Auto peek definition to split window when Click on symbol, like source insight context window",
+  "displayName": "Peek Context Window",
+  "description": "Automatically peek symbol definitions in a split editor window, similar to Source Insight's context window.",
   "version": "0.0.1",
   "publisher": "Aarlan",
   "repository": {
